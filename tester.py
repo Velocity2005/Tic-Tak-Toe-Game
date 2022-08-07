@@ -1,3 +1,5 @@
+#This is just a function tester that I used to test all my A.I functions
+
 import tictactoe as ttt
 X = "X"
 O = "O"
@@ -7,4 +9,4 @@ game = [
     [O,X,O],
     [X,X,O]
 ]
-print(ttt.winner(game))
+#print(ttt.winner(game))
